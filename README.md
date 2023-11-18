@@ -1,7 +1,5 @@
 # UNIT PLAN NAME
-by TEAM MEMBERS
-
------
+by Erwin Lara and Parmandand Singh
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
